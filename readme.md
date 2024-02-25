@@ -7,6 +7,10 @@ I used these two tutorials to help me generate this design
 
 This project is based on work done by [Herschel Shapiro](https://herschelshapiro.com/) and [Matt Shlian](https://www.mattshlian.com/)
 
+Using the following LEDS
+
+![square-pixel-ws2812](https://github.com/funvill/tessellating-led-matrix/blob/main/square-pixel-ws2812.png?raw=true)
+
 ## Change Log
 
 |              | V2     | V1       |
@@ -23,3 +27,5 @@ This project is based on work done by [Herschel Shapiro](https://herschelshapiro
 **Good** - The base looks good. Wires fit in the holes provided. The LED pixels fit in the spots created. 6 sides looks like it will provide some interesting arrangements. Solid Base.
 
 **Bad** - Too heavy. Too much material. The walls on the top are too thick. Light doesn't reach the very tip of the top.
+
+![square-pixel-ws2812](https://github.com/funvill/tessellating-led-matrix/blob/main/bamboo-studios-2024-jan-07.gif?raw=true)
