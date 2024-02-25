@@ -9,6 +9,11 @@ This project is based on work done by [Herschel Shapiro](https://herschelshapiro
 
 ## Change Log
 
+|              | V2     | V1       |
+|--------------|--------|----------|
+| **Filament** | 32.30g | 54.28g   |
+| **Time**     | 1h 52m | 2h 43min |
+
 ### (2024-Feb-25) GlowingMatrix-v2-2024-Feb-25.step
 
 - The top is smaller in height, with thinner walls. No overhang. Didn't put a direction on it so it can be oriented in any direction.
